@@ -1,2 +1,4 @@
 # python_katas
-My katas and stuff
+My katas from codewars
+
+https://www.codewars.com/users/vforvargas
